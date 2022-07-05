@@ -20,4 +20,5 @@ temperatures than average.
 detecting animals (such as wild boar herds and
 leopards) on our campus.
 
+For package creation instructions see [here](/docs/INSTRUCTIONS.md)
 
